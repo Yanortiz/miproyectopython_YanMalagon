@@ -1,0 +1,25 @@
+{
+  "Rutas": {
+    "Ruta_java": [
+      {
+        "Salon_ruta_Java": "Sputnik"
+      }
+    ],
+    "Ruta_NetCore": [
+      {
+        "Salon_ruta_NetCore": "Apolo"
+      }
+    ],
+    "Ruta_Nodecore": [
+      {
+        "Salon_ruta_Nodecore": "Artemis"
+      }
+    ],
+    "Rutas_nuevas": [
+      {
+        "Ruta": "css",
+        "Salon": "No definido "
+      }
+    ]
+  }
+}
